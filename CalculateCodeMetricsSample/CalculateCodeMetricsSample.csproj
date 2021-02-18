@@ -4,10 +4,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Business\Abstract\" />
-    <Folder Include="Business\Concrete\" />
-    <Folder Include="Models\" />
-  </ItemGroup>
-
 </Project>

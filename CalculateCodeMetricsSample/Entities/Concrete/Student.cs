@@ -6,5 +6,6 @@
         public string LastName { get; set; }
         public string Email { get; set; }
         public string TelephoneNumber { get; set; }
+        public byte StudentTypeId { get; set; }
     }
 }
