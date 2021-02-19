@@ -72,13 +72,13 @@ namespace CalculateCodeMetricsSample.Business.Concrete
             switch (model.StudentTypeId)
             {
                 case (byte)StudentTypes.Undergraduate:
-                    //DoSomethign();
+                    //DoSomething();
                     break;
                 case (byte)StudentTypes.Postgraduate:
-                    //DoSomethign();
+                    //DoSomething();
                     break;
                 case (byte)StudentTypes.Doctoral:
-                    //DoSomethign();
+                    //DoSomething();
                     break;
                 default:
                     break;
